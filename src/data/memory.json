@@ -1,21 +1,33 @@
 {
-    title: "MEMORY",
-    items: [
-    { name: "MemGPT", logos: [
+  "title": "MEMORY",
+  "items": [
+    {
+      "name": "MemGPT",
+      "logos": [
         "https://placehold.co/200x50/png?text=MemGPT"
-      ], url: "https://memgpt.ai"
+      ],
+      "url": "https://memgpt.ai"
     },
-    { name: "Zep", logos: [
+    {
+      "name": "Zep",
+      "logos": [
         "https://placehold.co/200x50/png?text=Zep"
-      ], url: "https://zep.ai"
+      ],
+      "url": "https://zep.ai"
     },
-    { name: "LangMem", logos: [
+    {
+      "name": "LangMem",
+      "logos": [
         "https://placehold.co/200x50/png?text=LangMem"
-      ], url: "https://langmem.ai"
+      ],
+      "url": "https://langmem.ai"
     },
-    { name: "Memo", logos: [
+    {
+      "name": "Memo",
+      "logos": [
         "https://placehold.co/200x50/png?text=Memo"
-      ], url: "https://memo.ai"
-    },
+      ],
+      "url": "https://memo.ai"
+    }
   ]
-},
+}
