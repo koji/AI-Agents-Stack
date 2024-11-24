@@ -4,7 +4,7 @@
     {
       "name": "Decagon",
       "logos": [
-        "https://placehold.co/200x50/png?text=Decagon"
+        "https://decagon.ai/landing/logo.svg"
       ],
       "url": "https://decagon.ai"
     },
@@ -48,12 +48,12 @@
       "logos": [
         "https://placehold.co/200x50/png?text=Cognition"
       ],
-      "url": "https://cognition.dev"
+      "url": "https://www.cognition.ai/"
     },
     {
       "name": "Factory",
       "logos": [
-        "https://placehold.co/200x50/png?text=Factory"
+        "https://cdn.prod.website-files.com/663fa3b3696c8bf893cc38b7/663fa3b3696c8bf893cc38e3_Vector.svg"
       ],
       "url": "https://factory.ai"
     },
@@ -62,26 +62,26 @@
       "logos": [
         "https://placehold.co/200x50/png?text=AllHands"
       ],
-      "url": "https://allhands.ai"
+      "url": "https://www.all-hands.dev/"
     },
     {
       "name": "Dosu",
       "logos": [
-        "https://placehold.co/200x50/png?text=Dosu"
+        "https://dosu.dev/logomark.svg"
       ],
-      "url": "https://dosu.ai"
+      "url": "https://dosu.dev/"
     },
     {
       "name": "Lindy",
       "logos": [
-        "https://placehold.co/200x50/png?text=Lindy"
+        "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/671b58451af041b86ef1c56b_lindy_hero_bg-p-2600.png"
       ],
       "url": "https://lindy.ai"
     },
     {
       "name": "11x",
       "logos": [
-        "https://placehold.co/200x50/png?text=11x"
+        "https://cdn.prod.website-files.com/66fe5a1a88c73ef8f270d312/6728e4376d19a8a8822b936d_11x-logo.svg"
       ],
       "url": "https://11x.ai"
     }

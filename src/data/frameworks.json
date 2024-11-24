@@ -18,16 +18,16 @@
     {
       "name": "AutoGen",
       "logos": [
-        "https://placehold.co/200x50/png?text=AutoGen"
+        "https://microsoft.github.io/autogen/0.2/img/ag.svg"
       ],
       "url": "https://microsoft.github.io/autogen"
     },
     {
       "name": "LlamaIndex",
       "logos": [
-        "https://placehold.co/200x50/png?text=LlamaIndex"
+        "https://www.llamaindex.ai/llamaindex.svg"
       ],
-      "url": "https://www.llamaindex.ai"
+      "url": "https://www.llamaindex.ai/"
     },
     {
       "name": "CrewAI",
