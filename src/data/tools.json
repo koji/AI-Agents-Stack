@@ -1,0 +1,26 @@
+{
+  "title": "TOOL LIBRARIES",
+  "items": [
+    {
+      "name": "Composio",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Composio"
+      ],
+      "url": "https://composio.dev"
+    },
+    {
+      "name": "Browserbase",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Browserbase"
+      ],
+      "url": "https://www.browserbase.com/"
+    },
+    {
+      "name": "Exa",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Exa"
+      ],
+      "url": "https://exa.ai"
+    }
+  ]
+}

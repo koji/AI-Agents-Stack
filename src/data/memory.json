@@ -11,23 +11,23 @@
     {
       "name": "Zep",
       "logos": [
-        "https://placehold.co/200x50/png?text=Zep"
+        "https://cdn.prod.website-files.com/660b1c076d13b7e2967a499d/6710305c7593bf76f81418a6_logo.svg"
       ],
-      "url": "https://zep.ai"
+      "url": "https://www.getzep.com/"
     },
     {
       "name": "LangMem",
       "logos": [
-        "https://placehold.co/200x50/png?text=LangMem"
+        "https://langchain-ai.github.io/long-term-memory/static/img/brand/wordmark.png"
       ],
-      "url": "https://langmem.ai"
+      "url": "https://langchain-ai.github.io/long-term-memory/"
     },
     {
-      "name": "Memo",
+      "name": "mem0",
       "logos": [
         "https://placehold.co/200x50/png?text=Memo"
       ],
-      "url": "https://memo.ai"
+      "url": "https://mem0.ai/"
     }
   ]
 }

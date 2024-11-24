@@ -1,0 +1,68 @@
+{
+  "title": "AGENT FRAMEWORKS",
+  "items": [
+    {
+      "name": "Letta",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Letta"
+      ],
+      "url": "https://letta.ai"
+    },
+    {
+      "name": "LangGraph",
+      "logos": [
+        "https://placehold.co/200x50/png?text=LangGraph"
+      ],
+      "url": "https://python.langchain.com/docs/langgraph"
+    },
+    {
+      "name": "AutoGen",
+      "logos": [
+        "https://placehold.co/200x50/png?text=AutoGen"
+      ],
+      "url": "https://microsoft.github.io/autogen"
+    },
+    {
+      "name": "LlamaIndex",
+      "logos": [
+        "https://placehold.co/200x50/png?text=LlamaIndex"
+      ],
+      "url": "https://www.llamaindex.ai"
+    },
+    {
+      "name": "CrewAI",
+      "logos": [
+        "https://placehold.co/200x50/png?text=CrewAI"
+      ],
+      "url": "https://www.crewai.io"
+    },
+    {
+      "name": "DSPy",
+      "logos": [
+        "https://placehold.co/200x50/png?text=DSPy"
+      ],
+      "url": "https://dspy.ai"
+    },
+    {
+      "name": "Phidata",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Phidata"
+      ],
+      "url": "https://phidata.com"
+    },
+    {
+      "name": "Semantic Kernel",
+      "logos": [
+        "https://placehold.co/200x50/png?text=SemanticKernel"
+      ],
+      "url": "https://learn.microsoft.com/semantic-kernel"
+    },
+    {
+      "name": "AutoGPT",
+      "logos": [
+        "https://placehold.co/200x50/png?text=AutoGPT"
+      ],
+      "url": "https://agpt.co/"
+    }
+  ]
+}

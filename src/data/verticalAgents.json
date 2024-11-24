@@ -1,0 +1,89 @@
+{
+  "title": "VERTICAL AGENTS",
+  "items": [
+    {
+      "name": "Decagon",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Decagon"
+      ],
+      "url": "https://decagon.ai"
+    },
+    {
+      "name": "Sierra",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Sierra"
+      ],
+      "url": "https://sierra.ai"
+    },
+    {
+      "name": "Replit",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Replit"
+      ],
+      "url": "https://replit.com"
+    },
+    {
+      "name": "Perplexity",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Perplexity"
+      ],
+      "url": "https://perplexity.ai"
+    },
+    {
+      "name": "Harvey",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Harvey"
+      ],
+      "url": "https://harvey.ai"
+    },
+    {
+      "name": "MultiOn",
+      "logos": [
+        "https://placehold.co/200x50/png?text=MultiOn"
+      ],
+      "url": "https://multion.ai"
+    },
+    {
+      "name": "Cognition",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Cognition"
+      ],
+      "url": "https://cognition.dev"
+    },
+    {
+      "name": "Factory",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Factory"
+      ],
+      "url": "https://factory.ai"
+    },
+    {
+      "name": "All Hands",
+      "logos": [
+        "https://placehold.co/200x50/png?text=AllHands"
+      ],
+      "url": "https://allhands.ai"
+    },
+    {
+      "name": "Dosu",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Dosu"
+      ],
+      "url": "https://dosu.ai"
+    },
+    {
+      "name": "Lindy",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Lindy"
+      ],
+      "url": "https://lindy.ai"
+    },
+    {
+      "name": "11x",
+      "logos": [
+        "https://placehold.co/200x50/png?text=11x"
+      ],
+      "url": "https://11x.ai"
+    }
+  ]
+}
