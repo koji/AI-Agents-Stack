@@ -1,9 +1,9 @@
-import React from 'react';
-import { Calendar } from 'lucide-react';
+import { FaCalendarDays } from "react-icons/fa6";
 import { StackSection, sectionIcons } from './components/StackSection';
 import { stackData } from './data/stackData';
 
 function App() {
+  console.log(stackData);
   return (
     <div className="min-h-screen bg-gray-100 p-8">
       <div className="max-w-7xl mx-auto">
@@ -11,7 +11,7 @@ function App() {
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800">AI Agents Stack</h1>
           <div className="flex items-center gap-2 text-gray-600">
-            <Calendar size={20} />
+            <FaCalendarDays size={20} />
             <span>NOVEMBER 2024</span>
           </div>
         </div>

@@ -1,0 +1,33 @@
+{
+    title: "STORAGE",
+    items: [
+    { name: "Chroma", logos: [
+        "https://placehold.co/200x50/png?text=Chroma"
+      ], url: "https://trychroma.com"
+    },
+    { name: "Drant", logos: [
+        "https://placehold.co/200x50/png?text=Drant"
+      ], url: "https://drant.ai"
+    },
+    { name: "Milvus", logos: [
+        "https://placehold.co/200x50/png?text=Milvus"
+      ], url: "https://milvus.io"
+    },
+    { name: "Pinecone", logos: [
+        "https://placehold.co/200x50/png?text=Pinecone"
+      ], url: "https://pinecone.io"
+    },
+    { name: "Weaviate", logos: [
+        "https://placehold.co/200x50/png?text=Weaviate"
+      ], url: "https://weaviate.io"
+    },
+    { name: "NEON", logos: [
+        "https://placehold.co/200x50/png?text=NEON"
+      ], url: "https://neon.tech"
+    },
+    { name: "Supabase", logos: [
+        "https://placehold.co/200x50/png?text=Supabase"
+      ], url: "https://supabase.com"
+    },
+  ]
+}

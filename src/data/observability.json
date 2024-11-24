@@ -1,0 +1,47 @@
+{
+  "title": "OBSERVABILITY",
+  "items": [
+    {
+      "name": "LangSmith",
+      "logos": [
+        "https://placehold.co/200x50/png?text=LangSmith"
+      ],
+      "url": "https://smith.langchain.com"
+    },
+    {
+      "name": "Arize",
+      "logos": [
+        "https://arize.com/wp-content/themes/arize-2022/images/logo2.svg"
+      ],
+      "url": "https://arize.com/"
+    },
+    {
+      "name": "Weave",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Weave"
+      ],
+      "url": "https://www.weave.ai/"
+    },
+    {
+      "name": "Langfuse",
+      "logos": [
+        "https://langfuse.com/langfuse_logo.png"
+      ],
+      "url": "https://langfuse.com/"
+    },
+    {
+      "name": "AgentOps.ai",
+      "logos": [
+        "https://www.agentops.ai/_next/static/media/agentops-logo.bb6c9e8b.svg"
+      ],
+      "url": "https://agentops.ai"
+    },
+    {
+      "name": "Braintrust",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Braintrust"
+      ],
+      "url": "https://braintrustdata.com"
+    }
+  ]
+}

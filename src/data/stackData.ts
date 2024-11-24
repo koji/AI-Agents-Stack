@@ -1,3 +1,9 @@
+import hosting_and_serving from "./hosting_and_serving.json";
+import observability from "./observability.json";
+import memory from "./memory.json";
+import modelServing from "./modelServing.json";
+import storage from "./storage.json";
+
 export const stackData = {
   verticalAgents: {
     title: "VERTICAL AGENTS",
@@ -16,28 +22,8 @@ export const stackData = {
       { name: "11x", logos: ["https://placehold.co/200x50/png?text=11x"], url: "https://11x.ai" },
     ]
   },
-  hosting: {
-    title: "AGENT HOSTING & SERVING",
-    items: [
-      { name: "Letta", logos: ["https://placehold.co/200x50/png?text=Letta"], url: "https://letta.ai" },
-      { name: "LangGraph", logos: ["https://placehold.co/200x50/png?text=LangGraph"], url: "https://langgraph.ai" },
-      { name: "Assistants API", logos: ["https://placehold.co/200x50/png?text=AssistantsAPI"], url: "https://platform.openai.com/docs/assistants" },
-      { name: "Agents API", logos: ["https://placehold.co/200x50/png?text=AgentsAPI"], url: "https://agents.api" },
-      { name: "Amazon Bedrock Agents", logos: ["https://placehold.co/200x50/png?text=AmazonBedrockAgents"], url: "https://aws.amazon.com/bedrock/agents" },
-      { name: "LiveKit Agents", logos: ["https://placehold.co/200x50/png?text=LiveKitAgents"], url: "https://livekit.io" },
-    ]
-  },
-  observability: {
-    title: "OBSERVABILITY",
-    items: [
-      { name: "LangSmith", logos: ["https://placehold.co/200x50/png?text=LangSmith"], url: "https://smith.langchain.com" },
-      { name: "Arize", logos: ["https://placehold.co/200x50/png?text=Arize"], url: "https://arize.com" },
-      { name: "Weave", logos: ["https://placehold.co/200x50/png?text=Weave"], url: "https://weave.works" },
-      { name: "Langfuse", logos: ["https://placehold.co/200x50/png?text=Langfuse"], url: "https://langfuse.com" },
-      { name: "AgentOps.ai", logos: ["https://placehold.co/200x50/png?text=AgentOps"], url: "https://agentops.ai" },
-      { name: "Braintrust", logos: ["https://placehold.co/200x50/png?text=Braintrust"], url: "https://braintrustdata.com" },
-    ]
-  },
+  hosting: hosting_and_serving,
+  observability: observability ,
   frameworks: {
     title: "AGENT FRAMEWORKS",
     items: [
@@ -52,15 +38,7 @@ export const stackData = {
       { name: "AutoGPT", logos: ["https://placehold.co/200x50/png?text=AutoGPT"], url: "https://autogpt.net" },
     ]
   },
-  memory: {
-    title: "MEMORY",
-    items: [
-      { name: "MemGPT", logos: ["https://placehold.co/200x50/png?text=MemGPT"], url: "https://memgpt.ai" },
-      { name: "Zep", logos: ["https://placehold.co/200x50/png?text=Zep"], url: "https://zep.ai" },
-      { name: "LangMem", logos: ["https://placehold.co/200x50/png?text=LangMem"], url: "https://langmem.ai" },
-      { name: "Memo", logos: ["https://placehold.co/200x50/png?text=Memo"], url: "https://memo.ai" },
-    ]
-  },
+  memory: memory,
   tools: {
     title: "TOOL LIBRARIES",
     items: [
@@ -76,32 +54,6 @@ export const stackData = {
       { name: "Modal", logos: ["https://placehold.co/200x50/png?text=Modal"], url: "https://modal.com" },
     ]
   },
-  modelServing: {
-    title: "MODEL SERVING",
-    items: [
-      { name: "LLM", logos: ["https://placehold.co/200x50/png?text=LLM"], url: "https://llm.ai" },
-      { name: "Ollama", logos: ["https://placehold.co/200x50/png?text=Ollama"], url: "https://ollama.ai" },
-      { name: "LM Studio", logos: ["https://placehold.co/200x50/png?text=LMStudio"], url: "https://lmstudio.ai" },
-      { name: "SGL", logos: ["https://placehold.co/200x50/png?text=SGL"], url: "https://sgl.ai" },
-      { name: "Together.ai", logos: ["https://placehold.co/200x50/png?text=Together.ai"], url: "https://together.ai" },
-      { name: "Fireworks AI", logos: ["https://placehold.co/200x50/png?text=FireworksAI"], url: "https://fireworks.ai" },
-      { name: "Groq", logos: ["https://placehold.co/200x50/png?text=Groq"], url: "https://groq.com" },
-      { name: "OpenAI", logos: ["https://placehold.co/200x50/png?text=OpenAI"], url: "https://openai.com" },
-      { name: "Anthropic", logos: ["https://placehold.co/200x50/png?text=Anthropic"], url: "https://anthropic.com" },
-      { name: "Mistral AI", logos: ["https://placehold.co/200x50/png?text=MistralAI"], url: "https://mistral.ai" },
-      { name: "Gemini", logos: ["https://placehold.co/200x50/png?text=Gemini"], url: "https://deepmind.google/technologies/gemini" },
-    ]
-  },
-  storage: {
-    title: "STORAGE",
-    items: [
-      { name: "Chroma", logos: ["https://placehold.co/200x50/png?text=Chroma"], url: "https://trychroma.com" },
-      { name: "Drant", logos: ["https://placehold.co/200x50/png?text=Drant"], url: "https://drant.ai" },
-      { name: "Milvus", logos: ["https://placehold.co/200x50/png?text=Milvus"], url: "https://milvus.io" },
-      { name: "Pinecone", logos: ["https://placehold.co/200x50/png?text=Pinecone"], url: "https://pinecone.io" },
-      { name: "Weaviate", logos: ["https://placehold.co/200x50/png?text=Weaviate"], url: "https://weaviate.io" },
-      { name: "NEON", logos: ["https://placehold.co/200x50/png?text=NEON"], url: "https://neon.tech" },
-      { name: "Supabase", logos: ["https://placehold.co/200x50/png?text=Supabase"], url: "https://supabase.com" },
-    ]
-  }
+  modelServing: modelServing,
+  storage:storage
 };

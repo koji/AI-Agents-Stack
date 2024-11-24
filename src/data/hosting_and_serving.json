@@ -1,0 +1,47 @@
+{
+  "title": "AGENT HOSTING & SERVING",
+  "items": [
+    {
+      "name": "Letta",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Letta"
+      ],
+      "url": "https://letta.com/"
+    },
+    {
+      "name": "LangGraph",
+      "logos": [
+        "https://placehold.co/200x50/png?text=LangGraph"
+      ],
+      "url": "https://langchain.com/langgraph"
+    },
+    {
+      "name": "Assistants API",
+      "logos": [
+        "https://placehold.co/200x50/png?text=AssistantsAPI"
+      ],
+      "url": "https://platform.openai.com/docs/assistants/overview"
+    },
+    {
+      "name": "Agents API",
+      "logos": [
+        "https://placehold.co/200x50/png?text=AgentsAPI"
+      ],
+      "url": "https://docs.mistral.ai/capabilities/agents/"
+    },
+    {
+      "name": "Amazon Bedrock Agents",
+      "logos": [
+        "https://placehold.co/200x50/png?text=AmazonBedrockAgents"
+      ],
+      "url": "https://aws.amazon.com/bedrock/agents/"
+    },
+    {
+      "name": "LiveKit Agents",
+      "logos": [
+        "https://placehold.co/200x50/png?text=LiveKitAgents"
+      ],
+      "url": "https://livekit.io"
+    }
+  ]
+}

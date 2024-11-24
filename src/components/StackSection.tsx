@@ -1,13 +1,5 @@
-import {
-  Box,
-  Boxes,
-  Brain,
-  Database,
-  FlaskConical,
-  HardDrive,
-  Library,
-  Share2
-} from 'lucide-react';
+import { FaBoxOpen, FaDatabase, FaBrain, FaRegHardDrive, FaFlask,FaShareNodes ,FaBoxesStacked, FaSwatchbook       } from "react-icons/fa6";
+
 import type { ReactNode } from 'react';
 
 interface StackItem {
@@ -23,6 +15,7 @@ interface StackSectionProps {
 }
 
 export function StackSection({ title, items, icon }: StackSectionProps) {
+  console.log(items);
   return (
     <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 h-full">
       <div className="flex items-center gap-2 mb-4">
@@ -41,13 +34,14 @@ export function StackSection({ title, items, icon }: StackSectionProps) {
             rel="noopener noreferrer"
             className="transition-transform hover:scale-105 hover:shadow-lg"
           >
-            <div className="bg-white rounded-lg p-3 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex justify-between items-center gap-x-2 bg-white rounded-lg p-3 shadow-sm hover:shadow-md transition-shadow">
               <img
                 src={item.logos[0]}
                 alt={item.name}
-                className="h-8 object-contain"
+                className="flex-auto h-8 object-contain"
                 loading="lazy"
               />
+              <p className="flex-auto rounded-lg p-2 bg-slate-600 text-white">{item.name}</p>
             </div>
           </a>
         ))}
@@ -57,13 +51,13 @@ export function StackSection({ title, items, icon }: StackSectionProps) {
 }
 
 export const sectionIcons = {
-  vertical: <Box size={20} />,
-  hosting: <Share2 size={20} />,
-  observability: <Brain size={20} />,
-  frameworks: <Library size={20} />,
-  memory: <HardDrive size={20} />,
-  tools: <Boxes size={20} />,
-  sandboxes: <FlaskConical size={20} />,
-  serving: <Database size={20} />,
-  storage: <Database size={20} />,
+  vertical: <FaBoxOpen size={20} />,
+  hosting: <FaShareNodes  size={20} />,
+  observability: <FaBrain  size={20} />,
+  frameworks: <FaSwatchbook  size={20} />,
+  memory: <FaRegHardDrive  size={20} />,
+  tools: <FaBoxesStacked  size={20} />,
+  sandboxes: <FaFlask size={20} />,
+  serving: <FaDatabase  size={20} />,
+  storage: <FaDatabase  size={20} />,
 };

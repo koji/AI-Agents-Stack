@@ -1,0 +1,82 @@
+{
+  "title": "MODEL SERVING",
+  "items": [
+    {
+      "name": "vLLM",
+      "logos": [
+        "https://placehold.co/200x50/png?text=vLLM"
+      ],
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    {
+      "name": "Ollama",
+      "logos": [
+        "https://ollama.com/public/ollama.png"
+      ],
+      "url": "https://ollama.ai"
+    },
+    {
+      "name": "LM Studio",
+      "logos": [
+        "https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmmy.391b83df.png&w=1080&q=75"
+      ],
+      "url": "https://lmstudio.ai/"
+    },
+    {
+      "name": "SGL",
+      "logos": [
+        "https://sgl-project.github.io/_static/logo.png"
+      ],
+      "url": "https://sgl-project.github.io/"
+    },
+    {
+      "name": "together.ai",
+      "logos": [
+        "https://placehold.co/200x50/png?text=together.ai"
+      ],
+      "url": "https://together.ai"
+    },
+    {
+      "name": "Fireworks AI",
+      "logos": [
+        "https://placehold.co/200x50/png?text=FireworksAI"
+      ],
+      "url": "https://fireworks.ai"
+    },
+    {
+      "name": "groq",
+      "logos": [
+        "https://placehold.co/200x50/png?text=groq"
+      ],
+      "url": "https://groq.com"
+    },
+    {
+      "name": "OpenAI",
+      "logos": [
+        "https://placehold.co/200x50/png?text=OpenAI"
+      ],
+      "url": "https://openai.com"
+    },
+    {
+      "name": "Anthropic",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Anthropic"
+      ],
+      "url": "https://anthropic.com"
+    },
+    {
+      "name": "Mistral AI",
+      "logos": [
+        "https://mistral.ai/images/logo_hubc88c4ece131b91c7cb753f40e9e1cc5_2589_256x0_resize_q97_h2_lanczos_3.webp"
+      ],
+      "url": "https://mistral.ai"
+    },
+    {
+      "name": "Gemini",
+      "logos": [
+        "https://placehold.co/200x50/png?text=Gemini"
+      ],
+      "url": "https://deepmind.google/technologies/gemini"
+    }
+  ]
+}
