@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   Box,
   Boxes,
@@ -9,6 +8,7 @@ import {
   Library,
   Share2
 } from 'lucide-react';
+import type { ReactNode } from 'react';
 
 interface StackItem {
   name: string;
@@ -19,7 +19,7 @@ interface StackItem {
 interface StackSectionProps {
   title: string;
   items: StackItem[];
-  icon: React.ReactNode;
+  icon: ReactNode;
 }
 
 export function StackSection({ title, items, icon }: StackSectionProps) {
