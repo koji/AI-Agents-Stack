@@ -13,7 +13,7 @@
       "logos": [
         "https://placehold.co/200x50/png?text=LangGraph"
       ],
-      "url": "https://python.langchain.com/docs/langgraph"
+      "url": "https://www.langchain.com/langgraph"
     },
     {
       "name": "AutoGen",
@@ -32,30 +32,30 @@
     {
       "name": "CrewAI",
       "logos": [
-        "https://placehold.co/200x50/png?text=CrewAI"
+        "https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg"
       ],
-      "url": "https://www.crewai.io"
+      "url": "https://www.crewai.com/"
     },
     {
       "name": "DSPy",
       "logos": [
-        "https://placehold.co/200x50/png?text=DSPy"
+        "https://dspy.ai/static/img/dspy_logo.png"
       ],
-      "url": "https://dspy.ai"
+      "url": "https://dspy.ai/"
     },
     {
       "name": "Phidata",
       "logos": [
-        "https://placehold.co/200x50/png?text=Phidata"
+        "https://cdn.prod.website-files.com/66e0d4ef58ba78f56e23564e/66e0d4ef58ba78f56e2356a9_Logo.avif"
       ],
-      "url": "https://phidata.com"
+      "url": "https://www.phidata.com/"
     },
     {
       "name": "Semantic Kernel",
       "logos": [
         "https://placehold.co/200x50/png?text=SemanticKernel"
       ],
-      "url": "https://learn.microsoft.com/semantic-kernel"
+      "url": "https://learn.microsoft.com/en-us/semantic-kernel/overview/"
     },
     {
       "name": "AutoGPT",
