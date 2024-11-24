@@ -1,4 +1,4 @@
-import { FaCalendarDays } from "react-icons/fa6";
+import { FaCalendarDays, FaGithub  } from "react-icons/fa6";
 import { StackSection, sectionIcons } from './components/StackSection';
 import { stackData } from './data/stackData';
 
@@ -10,7 +10,13 @@ function App() {
         {/* Header */}
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800">AI Agents Stack</h1>
-          <div className="flex items-center gap-2 text-gray-600">
+          
+            
+ 
+          <div className="flex items-center gap-2 text-gray-600 flex-row">
+            <a href="https://github.com/koji/AI-Agents-Stack" target="_blank" rel="noopener noreferrer">
+            <FaGithub size={20} />
+            </a>
             <FaCalendarDays size={20} />
             <span>NOVEMBER 2024</span>
           </div>
