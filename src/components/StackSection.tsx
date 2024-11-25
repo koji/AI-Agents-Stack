@@ -1,4 +1,5 @@
-import { FaBoxOpen, FaDatabase, FaBrain, FaRegHardDrive, FaFlask,FaShareNodes ,FaBoxesStacked, FaSwatchbook       } from "react-icons/fa6";
+import { FaBoxOpen, FaDatabase, FaBrain, FaRegHardDrive, FaFlask, FaShareNodes, FaBoxesStacked, FaSwatchbook } from "react-icons/fa6";
+import { getImageSrc } from '../utils/utils';
 
 import type { ReactNode } from 'react';
 
@@ -15,7 +16,7 @@ interface StackSectionProps {
 }
 
 export function StackSection({ title, items, icon }: StackSectionProps) {
-  console.log(items);
+
   return (
     <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 h-full">
       <div className="flex items-center gap-2 mb-4">
@@ -36,7 +37,7 @@ export function StackSection({ title, items, icon }: StackSectionProps) {
           >
             <div className="flex justify-between items-center gap-x-2 bg-white rounded-lg p-3 shadow-sm hover:shadow-md transition-shadow">
               <img
-                src={item.logos[0]}
+                src={getImageSrc(item.logos[0])}
                 alt={item.name}
                 className="flex-auto h-8 object-contain"
                 loading="lazy"
@@ -52,12 +53,12 @@ export function StackSection({ title, items, icon }: StackSectionProps) {
 
 export const sectionIcons = {
   vertical: <FaBoxOpen size={20} />,
-  hosting: <FaShareNodes  size={20} />,
-  observability: <FaBrain  size={20} />,
-  frameworks: <FaSwatchbook  size={20} />,
-  memory: <FaRegHardDrive  size={20} />,
-  tools: <FaBoxesStacked  size={20} />,
+  hosting: <FaShareNodes size={20} />,
+  observability: <FaBrain size={20} />,
+  frameworks: <FaSwatchbook size={20} />,
+  memory: <FaRegHardDrive size={20} />,
+  tools: <FaBoxesStacked size={20} />,
   sandboxes: <FaFlask size={20} />,
-  serving: <FaDatabase  size={20} />,
-  storage: <FaDatabase  size={20} />,
+  serving: <FaDatabase size={20} />,
+  storage: <FaDatabase size={20} />,
 };
