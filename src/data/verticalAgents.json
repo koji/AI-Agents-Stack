@@ -4,49 +4,49 @@
     {
       "name": "Decagon",
       "logos": [
-        "https://decagon.ai/landing/logo.svg"
+        "decagon.jpg"
       ],
       "url": "https://decagon.ai"
     },
     {
       "name": "Sierra",
       "logos": [
-        "https://placehold.co/200x50/png?text=Sierra"
+        "sierra.jpg"
       ],
       "url": "https://sierra.ai"
     },
     {
       "name": "Replit",
       "logos": [
-        "https://placehold.co/200x50/png?text=Replit"
+        "replit.jpg"
       ],
       "url": "https://replit.com"
     },
     {
       "name": "Perplexity",
       "logos": [
-        "https://placehold.co/200x50/png?text=Perplexity"
+        "perplexity.jpg"
       ],
       "url": "https://perplexity.ai"
     },
     {
       "name": "Harvey",
       "logos": [
-        "https://placehold.co/200x50/png?text=Harvey"
+        "harvey.jpg"
       ],
       "url": "https://harvey.ai"
     },
     {
       "name": "MultiOn",
       "logos": [
-        "https://placehold.co/200x50/png?text=MultiOn"
+        "multion.jpg"
       ],
       "url": "https://multion.ai"
     },
     {
       "name": "Cognition",
       "logos": [
-        "https://placehold.co/200x50/png?text=Cognition"
+        "cognition.jpg"
       ],
       "url": "https://www.cognition.ai/"
     },
@@ -60,7 +60,7 @@
     {
       "name": "All Hands",
       "logos": [
-        "https://placehold.co/200x50/png?text=AllHands"
+        "all_hands.jpg"
       ],
       "url": "https://www.all-hands.dev/"
     },
@@ -74,14 +74,14 @@
     {
       "name": "Lindy",
       "logos": [
-        "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/671b58451af041b86ef1c56b_lindy_hero_bg-p-2600.png"
+        "lindyai.jpg"
       ],
       "url": "https://lindy.ai"
     },
     {
       "name": "11x",
       "logos": [
-        "https://cdn.prod.website-files.com/66fe5a1a88c73ef8f270d312/6728e4376d19a8a8822b936d_11x-logo.svg"
+        "11x.jpg"
       ],
       "url": "https://11x.ai"
     }
