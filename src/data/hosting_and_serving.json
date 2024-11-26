@@ -4,28 +4,28 @@
     {
       "name": "Letta",
       "logos": [
-        "https://placehold.co/200x50/png?text=Letta"
+        "letta.jpg"
       ],
       "url": "https://letta.com/"
     },
     {
       "name": "LangGraph",
       "logos": [
-        "https://placehold.co/200x50/png?text=LangGraph"
+        "langchain.jpg"
       ],
       "url": "https://langchain.com/langgraph"
     },
     {
       "name": "Assistants API",
       "logos": [
-        "https://placehold.co/200x50/png?text=AssistantsAPI"
+        "openai.jpg"
       ],
       "url": "https://platform.openai.com/docs/assistants/overview"
     },
     {
       "name": "Agents API",
       "logos": [
-        "https://placehold.co/200x50/png?text=AgentsAPI"
+        "mistralai.jpg"
       ],
       "url": "https://docs.mistral.ai/capabilities/agents/"
     },
@@ -39,7 +39,7 @@
     {
       "name": "LiveKit Agents",
       "logos": [
-        "https://placehold.co/200x50/png?text=LiveKitAgents"
+        "livekitco.jpg"
       ],
       "url": "https://livekit.io"
     }

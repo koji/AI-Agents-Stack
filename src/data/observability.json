@@ -4,14 +4,14 @@
     {
       "name": "LangSmith",
       "logos": [
-        "https://placehold.co/200x50/png?text=LangSmith"
+        "langchain.jpg"
       ],
       "url": "https://smith.langchain.com"
     },
     {
       "name": "Arize",
       "logos": [
-        "https://arize.com/wp-content/themes/arize-2022/images/logo2.svg"
+        "arizeai.jpg"
       ],
       "url": "https://arize.com/"
     },
@@ -25,14 +25,14 @@
     {
       "name": "Langfuse",
       "logos": [
-        "https://langfuse.com/langfuse_logo.png"
+        "langfuse.jpg"
       ],
       "url": "https://langfuse.com/"
     },
     {
       "name": "AgentOps.ai",
       "logos": [
-        "https://www.agentops.ai/_next/static/media/agentops-logo.bb6c9e8b.svg"
+        "agentops.jpg"
       ],
       "url": "https://agentops.ai"
     },
