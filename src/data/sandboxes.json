@@ -4,14 +4,14 @@
     {
       "name": "E2B",
       "logos": [
-        "https://placehold.co/200x50/png?text=E2B"
+        "e2b.jpg"
       ],
       "url": "https://e2b.dev/"
     },
     {
       "name": "Modal",
       "logos": [
-        "https://placehold.co/200x50/png?text=Modal"
+        "modal.jpg"
       ],
       "url": "https://modal.com"
     }

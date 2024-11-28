@@ -39,7 +39,7 @@ export function StackSection({ title, items, icon }: StackSectionProps) {
               <img
                 src={getImageSrc(item.logos[0])}
                 alt={item.name}
-                className="flex-auto h-8 object-contain"
+                className="flex-auto h-12 object-contain"
                 loading="lazy"
               />
               <p className="flex-auto rounded-lg p-2 bg-slate-600 text-white">{item.name}</p>
