@@ -49,6 +49,13 @@
         "https://placehold.co/200x50/png?text=Supabase"
       ],
       "url": "https://supabase.com"
+    },
+    {
+      "name": "DataStax",
+      "logos": [
+        "https://placehold.co/200x50/png?text=DataStax"
+      ],
+      "url": "https://datastax.com/"
     }
   ]
 }
